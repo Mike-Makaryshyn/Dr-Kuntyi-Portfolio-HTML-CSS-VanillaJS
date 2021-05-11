@@ -310,17 +310,17 @@ img{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
 }
 .appointment{
-  z-index: 10;
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+ 
 }
-.appointment a span {
-  color: #141414;
-  font-weight: bold;
-  margin-left: 5px;
-  font-size: 14px;
+.appointment-desk{
+  position: relative;
+}
+.appointment-desk img{
+  position: absolute;
+  top: 0;
+  left: 200px;
 }
 
 /* ===== ABOUT =====*/
