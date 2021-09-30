@@ -1,3 +1,3 @@
 # olegPortfolio
 
-https://mike-makaryshyn.github.io/olegPortfolio/
+https://drkuntyio.com.ua/
